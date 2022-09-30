@@ -7,19 +7,7 @@
 .time-calculate-all{
     margin-top: 60px;
 }
-.btn-activity-complete{
-    width: 100%;
-    height: 40px;
-    border-radius: 0 0 8px 8px;
-    background-color:grey ;
-    color: white;
-    border: 0px;
-    margin-top: 40px;
-}
 
-.btn-activity-complete:hover{
-    background-color:rgb(87, 85, 85);
-}
 
 .profile-container img{
     border-radius: 50%;
