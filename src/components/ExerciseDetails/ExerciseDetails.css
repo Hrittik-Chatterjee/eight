@@ -1,0 +1,62 @@
+.ex-details span {
+    font-weight: 300;
+}
+.ex-details p{
+    font-weight: bold;
+}
+.time-calculate-all{
+    margin-top: 60px;
+}
+.btn-activity-complete{
+    width: 100%;
+    height: 40px;
+    border-radius: 0 0 8px 8px;
+    background-color:grey ;
+    color: white;
+    border: 0px;
+    margin-top: 40px;
+}
+
+.btn-activity-complete:hover{
+    background-color:rgb(87, 85, 85);
+}
+
+.profile-container img{
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+}
+
+.name-image {
+    display: flex;
+}
+
+.profile-details{
+    display: flex;
+}
+.profile-details p{
+    margin-right: 20px;
+}
+
+.add-break{
+    margin-top: 40px;
+}
+.break-time-list{
+    width: 35px;
+    height: 35px;
+    display: flex;
+}
+
+.break-time-list button{
+    display: flex;
+    margin-right: 10px;
+    border-radius: 50%;
+    border: 0;
+    align-items: center;
+    justify-content: center;
+}
+.break-time-list button:hover{
+    background-color:black;
+    color: white;
+}

@@ -1,38 +1,38 @@
 [
     {
-    "name": "Dumbbell Row",
+    "name": "Trade mil running",
     "id":"1",
-    "img": "../src/Images/1.jpg",
-    "time":"20 m"
+    "img": "https://images.pexels.com/photos/1954524/pexels-photo-1954524.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "time":20
     },
     {
     "name": "Hammer Curls",
     "id":"2",
-    "img": "../src/Images/2.jpg",
-    "time":"30 m"
+    "img": "https://images.pexels.com/photos/1552242/pexels-photo-1552242.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "time":30
     },
     {
     "name": "Overhead Tricep Extensions",
     "id":"3",
-    "img": "../src/Images/3.jpg",
-    "time":"50 m"
+    "img": "https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "time":50
     },
     {
     "name": "Thruster Squats",
     "id":"4",
-    "img": "../src/Images/4.jpg",
-    "time":"25 m"
+    "img": "https://images.pexels.com/photos/2247179/pexels-photo-2247179.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "time":25
     },
     {
     "name": "Overhead Tricep Extensions",
     "id":"5",
-    "img": "../src/Images/5.jpg",
-    "time":"40 m"
+    "img": "https://images.pexels.com/photos/1229356/pexels-photo-1229356.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "time":40
     },
     {
     "name": "Dumbbell Row",
     "id":"6",
-    "img": "../src/Images/6.jpg",
-    "time":"55 m"
+    "img": "https://images.pexels.com/photos/116077/pexels-photo-116077.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "time":55
     }  
 ]
